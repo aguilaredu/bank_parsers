@@ -1,5 +1,5 @@
 # Testing files
-testing_notebook.ipynb
+tests/testing_notebook.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
